@@ -15,7 +15,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background-image:  url('/src/assets/fondo-login.jpg') ;
+    background-image:  url('/src/Imagenes/fondo_3.jpg') ;
     background-position: center;
     background-size: cover;
 }
@@ -86,14 +86,16 @@ body {
 .remember-forgot label input {
 
 accent-color: #fff;
-margin-right: 4px;
+margin-right: 3px;
 
 }
 
 .remember-forgot a {
 
-    color: #fff;
+    color: #0b99eb;
     text-decoration: none;
+    
+    
 }
 
 .remember-forgot a:haver {
